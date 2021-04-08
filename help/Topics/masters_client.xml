@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:08.279+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Акції якими володіє клієнт</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Акції якими володіє клієнт</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0001.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Код.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Номер акції в таблиці holdings.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Номер аккаунту.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Номер по-якому здійснюється вибірка інформації про володіння обраного клієнту відповідних акцій.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Символ.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Абрівіатура акції клієнта.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Акції.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Кількість акцій, які були придбані.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Вартість покупки.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Ціна по якій була закуплена одна одиниця акції ціного паперу.</text><tab /></para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-size:12pt;">Дата придбання.</text></li>
+    </list>
+    <para styleclass="Normal"><tab /><text style="font-size:12pt;">Дата коли клієнт придбав віпдовідну акцію.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

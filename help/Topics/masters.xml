@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:33.005+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Акції</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Акції</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50; tabstops:none;"><tab /></para>
+    <para styleclass="Normal" style="line-height:1.50; tabstops:none;"><tab /><text style="font-family:&apos;Courier New Baltic&apos;; font-size:12pt; vertical-align:baseline; color:#222222;">Акція - це цінний папір без встановленого строку, який свідчить про внесення певної пайки в капітал акціонерного товариства, дає право її власнику на придбання частини прибутку у формі дивіденду, на участь в розподілі майна при ліквідації акціонерного товариства. Акція породжена акціонерною формою підприємств (корпорацій), статутний капітал яких створюється шляхом випуску загальних акцій, що дають право голосу, і привілейованих (преференційних) неголосуючих акцій. </text></para>
+    <para styleclass="Normal" style="line-height:1.50; tabstops:none;"><text style="font-family:&apos;Courier New Baltic&apos;; font-size:12pt; vertical-align:baseline; color:#222222;">Статутний капітал корпорації - це та кількість акцій, котру корпорація може випустити згідно зі статутом. Випущені акції являють собою продану частину статутного капіталу. Оборотні акції - це та частина випущених акцій, яка залишається в руках тримачів. Якщо корпорація не викуповує частину випущених акцій, то кількість випущених акцій дорівнює кількості оборотних.</text></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-family:&apos;Courier New Baltic&apos;; font-size:12pt; vertical-align:baseline; color:#222222;">Тримачі акцій стають акціонерами корпорації, її власниками, отримують право голосу (1 загальна акція - один голос) при вирішенні питань на річних і надзвичайних зборах акціонерів, де затверджуються рішення правління більшістю голосів - звичайних акцій (контрольний пакет акцій).</text></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><image src="clip0023.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><image src="clip0024.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Код. Порядковий номер акції в таблиці master бази даних. Такий код завжди унікальний.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Символ. Абрівіатура акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Назва фірми. Найменування фірми яка пропонує акції. </text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Обмін. Назва бірже де ведуться торги.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Поточна ціна акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Високий індекс НКД.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Низький індекс НКД.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Співвідношеня ціна-дохід.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Коефіцієнт BETA акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Пронозуємий ріст акції, дані від спеціалістів.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Кількість потужностей промисловості.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Індекс зміни ціни акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;">Безпечність придбавння обраної акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Рейтинг акції у біржі.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Ранг акції у біржі.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Вид акції.</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Рекомендації щодо придбання. ( BUY - купити, HOLD - залишити &#160;).</text></li>
+      <li styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"><text style="font-size:12pt;"> Ризик покупки. ( MED - середній, &#160;HIGH - високий, LOW - низький).</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-bottom:14px; line-height:1.50; tabstops:none;"></para>
+  </body>
+</topic>

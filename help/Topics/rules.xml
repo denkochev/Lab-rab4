@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:04:53.667+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Цілі </title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Цілі </para>
+    </header>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:16pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">&#32;</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі відображаються цілі в кар&apos;єрі обраного клієнта. Як правило в таблиці бази даних воно заповнено англійською мовою, для редагування освіти також потрібно користуватись англійським шрифтом. </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Для того, щоб виконати редагування цілей обраного клієнту натисність лівою кнопкою миші на це поле, та змінить його.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">( Рисунок 1 )</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0015.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text styleclass="Image Caption">Рис.1</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Щоб інформація зберіглась перейдіть на наступного, або попереднього клієнта.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Найросповсюджені цілі клієнтів:</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Growth - ріст з англійської мови, якщо клієнт вказав такі цілі то він заінтересований в постійному карєрному рості та вдоволенню своїх амбіцій.</text></li>
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Retirement - відставка з англійської мови, такий клієнт не хоче працювати та має заінтересованість в найшвидкішій відставкі зі свого робочого місця.</text></li>
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Income - дохід з англійської мови, такий клієнт хоче отримувати якомога більший дохід, він має заінтересованість в підвищені своїх заробітків, можливо пасивним способом, шляхом отриманя дивідентів зі своїх акцій.</text></li>
+    </list>
+  </body>
+</topic>

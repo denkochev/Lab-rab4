@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:27.225+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Інформація щодо володіння акціями клієнтів</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><tab />Володіння акціями</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0022.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">На даному зображені пронумеровані всі елементи вікна &quot;Володіння акціями&quot;, нижче розташована повна інформація про користування даного вікна додатку.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Код.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">&#32;</text><tab /><text style="font-size:12pt;">Порядковий номер акції в таблиці holdings бази даних. Такий код завжди унікальний.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Номер аккаунту.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Номер по-якому здійснюється вибірка інформації про володіння обраного клієнту відповідних акцій.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Символ.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Абрівіатура акції клієнта.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Акції.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Кількість акцій, які були придбані клієнтом. Акція — вид цінних паперів, що являє собою свідоцтво про власність на визначену частку статутного (складеного) капіталу акціонерного товариства і надає її власнику (акціонеру) певні права, зокрема: право на участь в управлінні товариством, право на частину прибутку товариства у випадку його розподілу (дивіденд), а у випадку ліквідації — на частину залишкової вартості підприємства.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Чистий прибуток.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Прибу́ток (англ. profit) — різниця, на яку доходи перевищують пов&apos;язані з ними витрати. Чи́стий дохі́д (англ. net income) — це дохід від реалізації товарів (робіт, послуг), розрахований без урахування акцизного податку, мита, податку на додану вартість, інших непрямих податків та зборів.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Дата.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Дата коли акція вийшли на ринок.</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Повзунок для перегляду інформації, яка залишилась знизу.</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">При натисканні лівої кнопки миші на даний повзунок ви зможите зрушити його з місця і отримати повну інформацію. </text></para>
+  </body>
+</topic>

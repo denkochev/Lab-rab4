@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:04:45.076+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Рівень ризику</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Рівень ризику</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі відображається рівень різику &#160;клієнта. Як правило в таблиці бази даних воно заповнено англійською мовою і позначає:</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">HIGH - високий рівень ризику, ціна акцій клієнту постійно змінюється та ненадійна.</text></li>
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">MED- середній рівень ризику, ціна акцій клієнту тримається більш менш стабільно.</text></li>
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">LOW - низький рівень ризику, акції які придбав клієнт ростуть вгору за ціною</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Для того, щоб виконати редагування рівня ризику клієнта натисність лівою кнопкою миші на це поле, та змінить його обираючи один варіант із вишеперерахованих.( Рисунок 1 )</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0013.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text styleclass="Image Caption">Рис.1</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Щоб інформація зберіглась перейдіть на наступного, або попереднього клієнта.</text></para>
+  </body>
+</topic>

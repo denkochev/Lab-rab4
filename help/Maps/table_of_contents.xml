@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="442940617022483" build="ALL" modified="2021-04-07T21:05:13.770Z" icon="0" href="Introduction">
+    <caption translate="true">Клієнти</caption>
+    <topicref type="topic" id="442938621040647" build="ALL" modified="2021-04-08T00:03:43.321Z" icon="0" href="name">
+      <caption translate="true">Ім'я</caption>
+    </topicref>
+    <topicref type="topic" id="442937558738483" build="ALL" modified="2021-04-08T00:03:49.906Z" icon="0" href="surname">
+      <caption translate="true">Прізвище</caption>
+    </topicref>
+    <topicref type="topic" id="442939757833033" build="ALL" modified="2021-04-08T00:03:56.895Z" icon="0" href="nomer">
+      <caption translate="true">Номер аккаунту</caption>
+    </topicref>
+    <topicref type="topic" id="442937802367431" build="ALL" modified="2021-04-08T00:04:00.284Z" icon="0" href="adress">
+      <caption translate="true">Адреса</caption>
+    </topicref>
+    <topicref type="topic" id="442937177280610" build="ALL" modified="2021-04-08T00:04:04.495Z" icon="0" href="city">
+      <caption translate="true">Місто</caption>
+    </topicref>
+    <topicref type="topic" id="442938156161727" build="ALL" modified="2021-04-08T00:04:11.735Z" icon="0" href="state">
+      <caption translate="true">Штат</caption>
+    </topicref>
+    <topicref type="topic" id="442938569049821" build="ALL" modified="2021-04-07T22:09:33.694Z" icon="0" href="ZIP">
+      <caption translate="true">ZIP</caption>
+    </topicref>
+    <topicref type="topic" id="442938580413213" build="ALL" modified="2021-04-08T00:04:22.396Z" icon="0" href="phone">
+      <caption translate="true">Телефон</caption>
+    </topicref>
+    <topicref type="topic" id="442939679261334" build="ALL" modified="2021-04-08T00:04:29.864Z" icon="0" href="date_client">
+      <caption translate="true">Дата найму</caption>
+    </topicref>
+    <topicref type="topic" id="442937225476598" build="ALL" modified="2021-04-08T00:04:33.675Z" icon="0" href="soc">
+      <caption translate="true">Номер соціального страхування</caption>
+    </topicref>
+    <topicref type="topic" id="442939704462786" build="ALL" modified="2021-04-08T00:04:38.849Z" icon="0" href="birth">
+      <caption translate="true">Дата народження клієнта</caption>
+    </topicref>
+    <topicref type="topic" id="442937991008877" build="ALL" modified="2021-04-08T00:04:45.156Z" icon="0" href="riscs">
+      <caption translate="true">Рівень ризику</caption>
+    </topicref>
+    <topicref type="topic" id="442939733476144" build="ALL" modified="2021-04-08T00:04:49.191Z" icon="0" href="digree">
+      <caption translate="true">Освіта</caption>
+    </topicref>
+    <topicref type="topic" id="442939514778148" build="ALL" modified="2021-04-08T00:04:53.752Z" icon="0" href="rules">
+      <caption translate="true">Цілі </caption>
+    </topicref>
+    <topicref type="topic" id="442937138637994" build="ALL" modified="2021-04-08T00:04:57.626Z" icon="0" href="hobby">
+      <caption translate="true">Інтереси клієнта</caption>
+    </topicref>
+    <topicref type="topic" id="442939749157929" build="ALL" modified="2021-04-08T00:05:01.436Z" icon="0" href="photo">
+      <caption translate="true">Фото клієнта</caption>
+    </topicref>
+    <topicref type="topic" id="442938876496764" build="ALL" modified="2021-04-08T00:05:08.362Z" icon="0" href="masters_client">
+      <caption translate="true">Акції якими володіє клієнт</caption>
+    </topicref>
+    <topicref type="topic" id="442938370892723" build="ALL" modified="2021-04-08T00:05:14.890Z" icon="0" href="button1">
+      <caption translate="true">Кнопка &quot;Наступний клієнт&quot;</caption>
+    </topicref>
+    <topicref type="topic" id="444613361270" build="ALL" modified="2021-04-08T00:05:19.295Z" icon="0" href="button2">
+      <caption translate="true">Кнопка &quot;Попередній клієнт&quot;</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442939463015075" build="ALL" modified="2021-04-07T21:05:30.893Z" icon="0" href="Chapter-2">
+    <caption translate="true">Володіння акціями</caption>
+    <topicref type="topic" id="442940058759418" build="ALL" modified="2021-04-08T00:05:27.310Z" icon="0" href="Inform">
+      <caption translate="true">Інформація щодо володіння акціями клієнтів</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442940273625115" build="ALL" modified="2021-04-07T21:08:17.876Z" icon="0" href="Topic">
+    <caption translate="true">Акції</caption>
+    <topicref type="topic" id="442939495579258" build="ALL" modified="2021-04-08T00:05:33.088Z" icon="0" href="masters">
+      <caption translate="true">Акції</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="44294122041990" build="ALL" modified="2021-04-07T21:15:33.998Z" icon="0" href="-">
+    <caption translate="true">Про автора</caption>
+    <topicref type="topic" id="442938385733882" build="ALL" modified="2021-04-08T00:05:37.185Z" icon="0" href="about">
+      <caption translate="true">Про автора</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="44295439368066" build="ALL" modified="2021-04-07T21:59:00.362Z" icon="0" href="Topic2">
+    <caption translate="true">Меню</caption>
+  </topicref>
+</map>

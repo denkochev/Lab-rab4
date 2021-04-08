@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:37.102+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Про автора</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Про автора</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Робота виконана: </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">студентом 2 курсу </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Національний аерокосмічний університет ім. М.Є. Жуковського &quot;Харківський авіаційний інститут&quot;</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">групи 327ст </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Кочевом Денисом Дмитровичем</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">як проект до лабораторної роботи.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Всі права захищені.</text></para>
+  </body>
+</topic>

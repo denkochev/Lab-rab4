@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-07T23:00:35.189+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Клієнти</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Клієнти</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Тут відображена повна інформація щодо вікна &quot;Клієнти&quot; проекту. Завдяки даній інформації ви зможете користуватись даним додатком та отримаєте знання по заповненню та редагуванні проекту.</text></para>
+  </body>
+</topic>

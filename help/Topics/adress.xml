@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:04:00.196+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Адреса</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Адреса</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі відображається адреса обраного клієнта. Як правило в таблиці бази даних воно заповнено англійською мовою. Для редагування адреси клієнта &#160;потрібно користуватись англійським шрифтом. </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Для того, щоб виконати редагування адреси клієнта натисність лівою кнопкою миші на це поле, та змінить його.( Рисунок 1 )</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0005.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text styleclass="Image Caption">Рис.1</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Щоб інформація зберіглась перейдіть на наступного, або попереднього клієнта.</text></para>
+  </body>
+</topic>

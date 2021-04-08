@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:04:33.591+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Номер соціального страхування</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Номер соціального страхування</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі відображається номер соціального страхування обраного клієнта. Для того, щоб виконати редагування &#160;номеру соціального страхування &#160;натисність лівою кнопкою миші на це поле, та змінить його.( Рисунок 1 ).</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0011.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text styleclass="Image Caption">Рис.1</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Щоб інформація зберіглась перейдіть на наступного, або попереднього клієнта.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">Загальнообов’язкове державне соціальне страхування - це система прав, обов’язків і гарантій, яка передбачає надання соціального захисту, що включає матеріальне забезпечення громадян у разі хвороби, повної, часткової або тимчасової втрати працездатності, втрати годувальника, безробіття з незалежних від них обставин, а також у старості та в інших випадках, передбачених законом, за рахунок грошових фондів, що формуються шляхом сплати страхових внесків власником або уповноваженим ним органом, громадянами, а також бюджетних та інших джерел, передбачених законом.</text></para>
+  </body>
+</topic>

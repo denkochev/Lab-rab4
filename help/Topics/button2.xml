@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:19.212+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Кнопка &quot;Попередній клієнт&quot;</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Кнопка &quot;Попередній клієнт&quot;</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0021.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Дана кнопка відповідає за переключення клієнтів. Після її натискання відображається повна інформація по попередньому клієнту. Якщо випливає вікно рис.1., то це означає, що ви продивились всіх клієнтів в базі даних.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0020.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text styleclass="Image Caption">Рисунок 1.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+  </body>
+</topic>

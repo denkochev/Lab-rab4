@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:10:33.187+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Меню</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Меню</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><tab /><text style="font-size:14pt; font-weight:bold; color:#800080; background-color:#ffffff;">Клієнти</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:14pt; color:#000000;">
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="name" style="font-size:14pt;">Ім&apos;я</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="surname" style="font-size:14pt;">Прізвище</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="nomer" style="font-size:14pt;">Номер аккаунту</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="adress" style="font-size:14pt;">Адреса</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="city" style="font-size:14pt;">Місто</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="state" style="font-size:14pt;">Штат</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="ZIP" style="font-size:14pt;">ZIP</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="phone" style="font-size:14pt;">Телефон</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="date_client" style="font-size:14pt;">Дата найму</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="soc" style="font-size:14pt;">Номер соціального страхування</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="birth" style="font-size:14pt;">Дата народження клієнта</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="riscs" style="font-size:14pt;">Рівень ризику</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="digree" style="font-size:14pt;">Освіта</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="rules" style="font-size:14pt;">Цілі</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="hobby" style="font-size:14pt;">Інтереси клієнта</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="photo" style="font-size:14pt;">Фото клієнта</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="masters_client" style="font-size:14pt;">Акції якими володіє клієнт</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="button1" style="font-size:14pt;">Кнопка &quot;Наступний клієнт&quot;</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="button2" style="font-size:14pt;">Кнопка &quot;Попередній клієнт&quot;</link></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:14pt; font-weight:bold; color:#800080; background-color:#ffffff;">Володіння акціями</text><tab /></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><link displaytype="text" defaultstyle="true" type="topiclink" href="Inform" style="font-size:12pt; background-color:#ffffff;">Інформація щодо володіння акціями</link></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:14pt; font-weight:bold; color:#800080; background-color:#ffffff;">Акції</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><link displaytype="text" defaultstyle="true" type="topiclink" href="masters" style="font-size:12pt; background-color:#ffffff;">Акції</link></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:14pt; font-weight:bold; color:#800080; background-color:#ffffff;">Про автора</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><link displaytype="text" defaultstyle="true" type="topiclink" href="about" style="font-size:12pt;">Інформація про автора</link></para>
+  </body>
+</topic>

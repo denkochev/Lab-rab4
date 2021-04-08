@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:04:49.107+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Освіта</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Освіта</para>
+    </header>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:16pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">&#32;</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі відображається освіта обраного клієнта. Як правило в таблиці бази даних воно заповнено англійською мовою, для редагування освіти також потрібно користуватись англійським шрифтом. </text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Для того, щоб виконати редагування освіти обраного клієнту натисність лівою кнопкою миші на це поле, та змінить його.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">( Рисунок 1 )</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0014.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text styleclass="Image Caption">Рис.1</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Щоб інформація зберіглась перейдіть на наступного, або попереднього клієнта.</text></para>
+  </body>
+</topic>

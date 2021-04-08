@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-08T00:05:01.355+03:00" lasteditedby="Администратор" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Фото клієнта</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Фото клієнта</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><tab /><text style="font-size:12pt;">В даному полі знаходиться особисте фото обраного клієнту. Воно зберігається в базі даних в форматі bmp, воно додається лише один раз і не потребує зміни.</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-size:12pt;">Зберігаютсья фотографії клієнтів наступним чином:</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><image src="clip0017.png" scale="100.00%" styleclass="Image Caption"></image></para>
+  </body>
+</topic>
